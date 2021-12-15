@@ -1,3 +1,3 @@
 # Festekbolt
-link:https://vargajanos.github.io/Festekbolt/főoldal.html
+link:https://vargajanos.github.io/Festekbolt/index.html
 
