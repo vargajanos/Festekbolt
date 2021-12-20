@@ -1,0 +1,32 @@
+h1{
+    position: relative;
+    top: -1100px;
+}
+
+ul{
+    position: absolute;
+    top: 1px;
+    color: white;
+    border:solid;
+    border-width: 5px 5px;
+}
+div{
+    position: absolute;
+    top: 180px;
+}
+img.bükkfa{
+    border:solid 5px;
+    border-radius:360px;
+    border-color: white;
+}
+table.balra{
+    position: relative;
+    top: -800px;
+}
+table.jobbra{
+    position: relative;
+    top: -800px;
+}
+body{
+    background-image: url(fa/főoldal.jpg);
+}
