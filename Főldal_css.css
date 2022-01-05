@@ -1,6 +1,6 @@
 h1{
     position: relative;
-    top: -1100px;
+    top: 50px;
 }
 
 ul{
@@ -19,14 +19,24 @@ img.bükkfa{
     border-radius:360px;
     border-color: white;
 }
-table.balra{
-    position: relative;
-    top: -800px;
-}
-table.jobbra{
-    position: relative;
-    top: -800px;
-}
+
 body{
     background-image: url(fa/főoldal.jpg);
 }
+table{
+    position: relative;
+    top: 400px;
+    
+    
+}
+.jobbra{
+    position: relative;
+    left: 2000%;
+    
+}
+.jobbrakülönc{
+    position: relative;
+    left: 3818%;
+    
+}
+
