@@ -31,3 +31,9 @@ table.jobbra{
 body{
     background-image: url(fa/főoldal.jpg);
 }
+p{
+    border:solid;
+    border-width: 5px 5px;
+    color: black;
+    background-color:white;
+}
