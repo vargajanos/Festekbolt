@@ -6,9 +6,10 @@ h1{
 ul{
     position: absolute;
     top: 1px;
-    color: white;
+    color: rgb(245, 245, 245);
     border:solid;
     border-width: 5px 5px;
+    background-color:rgb(0, 0, 0);
 }
 div{
     position: absolute;
@@ -22,6 +23,7 @@ img.bükkfa{
 
 body{
     background-image: url(fa/főoldal.jpg);
+
 }
 table{
     position: relative;
@@ -38,5 +40,29 @@ table{
     position: relative;
     left: 3818%;
     
-}
 
+}
+p{
+    color:black;
+}
+tr{
+    background-color: rgb(rgb(12, 5, 112), green, blue);
+    height: 40px;
+
+}
+table{
+    width: 100%;
+}
+tr:nth-child(even) {
+    background-color: #b3a5a5;; }
+
+tr:hover {
+   background-color: blue;
+}
+th{
+   background-color: rgb(41, 36, 36);
+   color: white;
+}
+.második{
+    background-color: rgb(65, 62, 62);
+}
