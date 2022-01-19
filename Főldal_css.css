@@ -43,7 +43,8 @@ table{
 
 }
 p{
-    color:black;
+    color:white;
+    outline: black;
 }
 tr{
     background-color: rgb(rgb(12, 5, 112), green, blue);
