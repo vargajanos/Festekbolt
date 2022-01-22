@@ -1,6 +1,4 @@
-body{
-    width: 60%;
-}
+
 ul{
     position: absolute;
     top: 1px;
@@ -10,25 +8,6 @@ ul{
     background-color:rgb(0, 0, 0);
 }
 img{
-    width: 15%;
-}
-.egy{
-    position: relative;
-    left: 10%;
-    margin-top: 3%;
-}
-.ketto{
-    position: relative;
-    margin-top: -34%;
-    left: 40%;
-}
-.harom{
-    position: relative;
-    left: 70%;
-    margin-top: -34%
-}
-.negy{
-    position: relative;
-    left: 95%;
-    margin-top: -34%;
+    width: 10%;
+    padding: 5%;
 }
