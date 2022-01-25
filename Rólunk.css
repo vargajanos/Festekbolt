@@ -1,13 +1,3 @@
-.egy{
-    position: relative;
-    width: 7%;
-}
-.ketto{
-    width: 9%;
-}
-.harom{
-    width: 15%;
-}
 ul{
     position: absolute;
     top: 1px;
@@ -18,4 +8,26 @@ ul{
 }
 body{
     background-image: url(fa/főoldal.jpg);
+}
+.center1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.center2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+  .center3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+    color: black;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
