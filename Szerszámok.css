@@ -17,6 +17,10 @@ img{
 h2{
     position:relative;
     bottom:-500%;
+    color: black;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    margin-left: auto;
+    margin-right: auto;
 }
 .linkek{
     position:relative;
@@ -38,16 +42,20 @@ h2{
 .link1{
     position: relative;
     top: 130px;
+    padding: 15px;
     
 }
 .link2{
     position: relative;
     top: 160px;
+    padding: 15px;
     
 }
 .link3{
     position: relative;
     top: 160px;
+    padding: 15px;
 }
 
-
+body{
+    background-image: url(fa/főoldal.jpg);
