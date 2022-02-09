@@ -43,3 +43,8 @@ h1{
     text-shadow: black;
     text-align: center;
 }
+.név{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #000000; 
+}
