@@ -1,6 +1,8 @@
 h1{
     position: relative;
     top: 50px;
+    color: white;
+    text-shadow: 2px 2px #000000; 
 }
 
 ul{
@@ -10,6 +12,7 @@ ul{
     border:solid;
     border-width: 5px 5px;
     background-color:rgb(0, 0, 0);
+    width: 100%;
 }
 div{
     position: absolute;
@@ -22,7 +25,7 @@ img.bükkfa{
 }
 
 body{
-    background-image: url(fa/főoldal.jpg);
+    background-image: url(újháttérkép.jpg);
 
 }
 table{
@@ -44,7 +47,7 @@ table{
 }
 p{
     color:white;
-    outline: black;
+    text-shadow: 2px 2px #000000; 
 }
 tr{
     background-color: rgb(rgb(12, 5, 112), green, blue);

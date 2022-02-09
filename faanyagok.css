@@ -1,9 +1,9 @@
 body{
-    width: 50%;
+    width: 80%;
 }
 img{
     padding: 5%;
-    width: 15%;
+    width: %;
 }
 ul{
     position: absolute;
@@ -12,12 +12,21 @@ ul{
     border:solid;
     border-width: 5px 5px;
     background-color:rgb(0, 0, 0);
+    width: 100%;
 }
 main{
-    margin-top: 10%;
+    margin-top: 15%;
 }
 div{
-    margin: 2%;
+    margin: 100%;
 }
 body{
-    background-image: url(fa/főoldal.jpg);
+    background-image: url(újháttérkép.jpg);
+}
+.card{
+    margin: 10px;
+    width: 10%;
+    border: 3px solid black;
+    padding: 10px;
+
+}
