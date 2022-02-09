@@ -5,9 +5,10 @@ ul{
     border:solid;
     border-width: 5px 5px;
     background-color:rgb(0, 0, 0);
+    width: 100%;
 }
 body{
-    background-image: url(fa/főoldal.jpg);
+    background-image: url(piqsels.com-id-srzsf.jpg);
 }
 .center1{
     display: block;
@@ -28,14 +29,17 @@ body{
     width: 20%;
 }
 p{
-    color: black;
-    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #000000; 
+}
 }
 h1{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    color: white;
+    text-align: center; 
+}
+.text{
+    color: white;
+    text-shadow: black;
+    text-align: center;
 }
