@@ -1,10 +1,12 @@
 h2{
     position: relative;
-    left: 280%;
+    left: 265%;
+    color: white;
 }
 p{
     position: relative;
     left: 280%;
+    color: white;
 }
 ul{
     position: absolute;
